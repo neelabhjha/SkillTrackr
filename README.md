@@ -1,6 +1,6 @@
 SkillTrackr
 
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)](https://skilltrackr.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)](https://skill-trackr.vercel.app)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org)
 
 
